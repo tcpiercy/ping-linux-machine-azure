@@ -14,7 +14,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Powershell
+- Wireshark
 
 <h2>Operating Systems Used </h2>
 
@@ -34,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 (https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/preview" width="640" height="480" allow="autoplay)"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the link above, I demonstrate how I observed traffic between two virtual machines I created inb Azure, one Windows and one Linux, using RDP, Wireshark, and Powershell. Firstly, I filtered for ICMP traffic. Then I pinged the Linux machine from the Windows machine, and observed in Wireshark. 
 </p>
 <br />
 
