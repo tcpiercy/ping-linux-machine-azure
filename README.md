@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This lab outlines the processes used in viewing and filtering network traffic between two virtual machines.<br />
+This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.<br />
 
 
 <h2>Environments and Technologies Used</h2>
