@@ -3,12 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This lab outlines the processes used in th.<br />
+This lab outlines the processes used in viewing and filtering network traffic between two virtual machines.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,16 +16,13 @@ This lab outlines the processes used in th.<br />
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Linux Ubuntu
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Virtual Machines in Azure
+- Install Wireshark in VM
 
-<h2>Installation Steps</h2>
 
 <p>
 (https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/preview" width="640" height="480" allow="autoplay)"/>
