@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 (https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/preview" width="640" height="480" allow="autoplay)"/>
 </p>
 <p>
-In the link above, I demonstrate how I observed traffic between two virtual machines I created inb Azure, one Windows and one Linux, using RDP, Wireshark, and Powershell. Firstly, I filtered for ICMP traffic. Then I pinged the Linux machine from the Windows machine, and observed in Wireshark. 
+In the link above, I demonstrate how I observed traffic between two virtual machines I created inb Azure, one Windows and one Linux, using RDP, Wireshark, and Powershell. Firstly, I filtered for ICMP traffic and observed. Then I pinged the Linux machine from the Windows machine, and observed in Wireshark as well. I then verified by using ipconfig /all the traffic between the machines as well. 
 </p>
 <br />
 
