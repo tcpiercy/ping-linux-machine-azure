@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls
 This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.<br />
 
 
