@@ -1,7 +1,6 @@
-<p align="center">
+
 <<img width="186" alt="image" src="https://github.com/user-attachments/assets/9499b61f-0733-48a9-a9fb-e608663e37a3" />
-"/>
-</p>
+
 
 <h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls</h1>
 
