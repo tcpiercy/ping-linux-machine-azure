@@ -5,13 +5,13 @@
 <h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls
   
 
-This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.
-Environments and Technologies Used
+```This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.
+Environments and Technologies Used```
 
-- Microsoft Azure (Virtual Machines/Compute)
+```- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Powershell
-- Wireshark
+- Wireshark```
 
 <h2>Operating Systems Used </h2>
 
