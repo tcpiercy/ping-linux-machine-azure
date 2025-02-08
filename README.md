@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls
+<h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls</h1>
 
   
 
