@@ -32,13 +32,8 @@ Environments and Technologies Used
   
 In the link above, I demonstrate how I observed traffic between two virtual machines I created inb Azure, one Windows and one Linux, using RDP, Wireshark, and Powershell. Firstly, I filtered for ICMP traffic and observed. Then I pinged the Linux machine from the Windows machine, and observed in Wireshark as well. I then verified by using ipconfig /all the traffic between the machines as well. 
 
-<br />
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/bd00cb3f-078c-47d5-842c-0612faa1b85e" />
 
-<p>
-<img src="<img width="535" alt="image" src="https://github.com/user-attachments/assets/59b800d6-8ad0-41bb-b791-903fcd9d8ace" />
-"/>
-</p>
-<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
