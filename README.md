@@ -6,7 +6,7 @@
   
 
 This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.
-<h2>Environments and Technologies Used</h2>
+Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
