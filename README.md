@@ -5,7 +5,7 @@
 <h1>Azure- Computer Networking, Viewing Traffic, and Creating Firewalls
   
 
-This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.<br />
+This lab outlines the processes used in viewing and filtering network traffic between two virtual machines, as well as creating a firewall on Azure.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
