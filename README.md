@@ -26,9 +26,8 @@ Environments and Technologies Used
 - Install Wireshark in VM
 
 
-<p>
-<p>
-[![Video Demonstration](https://github.com/user-attachments/assets/your-thumbnail-image-link)](https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/preview)
+[![Video Thumbnail](https://private-user-images.githubusercontent.com/194857230/411273641-7fa192b9-2e65-4b95-9071-5500127430ee.png)](https://your-video-link.com)
+
   
 In the video demonstration in the link above, I demonstrate how I observed traffic between two virtual machines I created inb Azure, one Windows and one Linux, using RDP, Wireshark, and Powershell. Firstly, I filtered for ICMP traffic and observed. Then I pinged the Linux machine from the Windows machine, and observed in Wireshark as well. I then verified by using ipconfig /all the traffic between the machines as well. 
 
