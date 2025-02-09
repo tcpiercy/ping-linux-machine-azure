@@ -26,7 +26,9 @@ Environments and Technologies Used
 - Install Wireshark in VM
 
 
-[![Video Thumbnail](https://raw.githubusercontent.com/tcpiercy/ping-linux-machine-azure/main/image.png)](https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/view)
+<a href="https://drive.google.com/file/d/1wtcZP9u37IKxT53l0XAHxm5A10G3HyLV/view">
+  <img src="https://raw.githubusercontent.com/tcpiercy/ping-linux-machine-azure/main/image.png" width="400">
+</a>
 
 
   
